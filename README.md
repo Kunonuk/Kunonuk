@@ -1,57 +1,101 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" width="100%" alt="Dmytro Polischuk — Senior QA Automation Engineer / SDET. Reliable automation. Clear release signals.">
-</picture>
+<h1 align="center">Hi, I'm Dmytro Polischuk 👋</h1>
+<h3 align="center">Senior QA Automation Engineer / SDET</h3>
 
-**Calgary, Canada** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/dmytro-polischuk/) &nbsp; · &nbsp; [Email](mailto:polischuk.dm23@gmail.com)
+<p align="center">I build test frameworks, automate APIs, and make regression feedback faster.</p>
+<p align="center">📍 Calgary, Canada · Banking · Financial services · Cybersecurity</p>
 
-**Building reliable test automation, maintainable frameworks, and quality gates that catch defects before release.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/dmytro-polischuk/"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn"></a>
+  <a href="mailto:polischuk.dm23@gmail.com"><img src="assets/badges/email.svg" height="28" alt="Email Dmytro"></a>
+</p>
 
-## About Me
+---
 
-I'm a Senior QA Automation Engineer / SDET with experience in banking, financial services, and cybersecurity. I build UI, API, integration, and end-to-end automation, from the framework architecture to the checks that run in CI.
+## 🏅 Engineering Achievements
 
-My focus is practical: independent test data, repeatable execution, and failures that tell an engineer what to investigate. I work alongside developers to make quality checks part of everyday delivery.
+| Impact                          | What I built                                                                   |
+| :------------------------------ | :----------------------------------------------------------------------------- |
+| **6 hours → 1 hour** regression | Parallel execution, independent test data, and redesigned CI/CD pipelines.     |
+| **500+ automated tests**        | A framework covering UI, API, and end-to-end flows for international payments. |
+| **15% more test coverage**      | Cypress integration tests built from scratch and connected to CI/CD.           |
 
-## Technical Expertise
+---
 
-| Focus            | Tools and practices                                                           |
-| :--------------- | :---------------------------------------------------------------------------- |
-| **Languages**    | TypeScript, JavaScript, Java                                                  |
-| **Automation**   | Playwright, Cypress, UI / API / integration / E2E testing                     |
-| **API & data**   | REST Assured, JUnit, SQL, PostgreSQL                                          |
-| **Architecture** | Test framework design, test isolation, reusable fixtures, test data strategy  |
-| **Delivery**     | GitHub Actions, CI/CD integration, parallel execution, quality gates          |
-| **AI workflows** | AI-assisted development and QA, with human review and executable verification |
+## 🛠️ Tech Stack
 
-## Featured Projects
+**Languages**
 
-### [SDET Automation Patterns Lab](https://github.com/Kunonuk/sdet-automation-patterns-lab)
+<p align="center">
+  <img src="assets/badges/typescript.svg" height="28" alt="TypeScript">
+  <img src="assets/badges/javascript.svg" height="28" alt="JavaScript">
+  <img src="assets/badges/java.svg" height="28" alt="Java">
+</p>
 
-A TypeScript automation lab with Playwright UI/API smoke tests, validated environment configuration, and a deterministic local quality gate.
+**UI & E2E Automation**
 
-**Stack:** TypeScript · Playwright · Jest · Allure
+<p align="center">
+  <img src="assets/badges/playwright.svg" height="28" alt="Playwright">
+  <img src="assets/badges/cypress.svg" height="28" alt="Cypress">
+  <img src="assets/badges/cucumber.svg" height="28" alt="Cucumber">
+</p>
 
-**Engineering focus:** Separating deterministic checks from live-system smoke tests, avoiding hardcoded catalogue IDs, and producing useful failure reports. The current foundation is implemented; the broader pattern catalogue and CI integration are on the roadmap.
+**API Testing & Test Runners**
 
-### [Chess Combinations Trainer](https://github.com/Kunonuk/chess-combinations-trainer)
+<p align="center">
+  <img src="assets/badges/rest-assured.svg" height="28" alt="REST Assured">
+  <img src="assets/badges/junit.svg" height="28" alt="JUnit">
+  <img src="assets/badges/jest.svg" height="28" alt="Jest">
+  <img src="assets/badges/vitest.svg" height="28" alt="Vitest">
+</p>
 
-A browser-based chess tactics trainer with legal-move validation, solution playback, saved study progress, and keyboard-accessible interactions.
+**CI/CD & Infrastructure**
 
-**Stack:** TypeScript · React · chess.js · Vitest · Playwright · GitHub Actions
+<p align="center">
+  <img src="assets/badges/github-actions.svg" height="28" alt="GitHub Actions">
+  <img src="assets/badges/gitlab-ci.svg" height="28" alt="GitLab CI">
+  <img src="assets/badges/jenkins.svg" height="28" alt="Jenkins">
+  <img src="assets/badges/kubernetes.svg" height="28" alt="Kubernetes">
+</p>
 
-**Engineering focus:** Testing domain rules and persistence alongside desktop/mobile user journeys, with build, lint, unit, and headless browser checks in CI.
+**Data & Diagnostics**
 
-[Try the live trainer →](https://kunonuk.github.io/chess-combinations-trainer/)
+<p align="center">
+  <img src="assets/badges/postgresql.svg" height="28" alt="PostgreSQL">
+  <img src="assets/badges/mongodb.svg" height="28" alt="MongoDB">
+  <img src="assets/badges/kibana.svg" height="28" alt="Kibana">
+</p>
 
-## Engineering Highlights
+---
 
-- **Faster regression feedback:** Reduced a regression cycle from **6 hours to 1 hour** through parallel execution, independent test data, and CI/CD pipeline redesign.
-- **Automation at scale:** Built a test framework with **500+ automated UI, API, and E2E tests** for an international payments platform.
-- **Quality built into delivery:** Established Cypress integration tests from scratch and integrated them into CI/CD as the first QA engineer on a team.
+## 🧰 Featured Projects
 
-## Connect
+| Project                                                                                     | What you'll find                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[SDET Automation Patterns Lab](https://github.com/Kunonuk/sdet-automation-patterns-lab)** | An automation foundation with UI/API smoke tests, validated configuration, and HTML/Allure reports.<br><br>`TypeScript` `Playwright` `Jest` `Allure`                                                                                   |
+| **[Chess Combinations Trainer](https://github.com/Kunonuk/chess-combinations-trainer)**     | A chess tactics app with legal-move validation, saved progress, and desktop/mobile regression checks.<br><br>`React` `TypeScript` `Vitest` `Playwright` · **[Play the demo ↗](https://kunonuk.github.io/chess-combinations-trainer/)** |
 
-For Senior SDET / QA Automation opportunities or a conversation about test architecture:
+---
 
-[LinkedIn](https://www.linkedin.com/in/dmytro-polischuk/) &nbsp; · &nbsp; [GitHub](https://github.com/Kunonuk) &nbsp; · &nbsp; [polischuk.dm23@gmail.com](mailto:polischuk.dm23@gmail.com)
+## 💼 Where I've Worked
+
+```text
+CirrusLabs                                    Senior QA Automation Engineer  Feb 2024 – Present
+Raiffeisen Bank                               Senior QA Automation Engineer  Apr 2022 – Feb 2024
+Orbit Group                                   QA Automation Engineer         Jul 2021 – Apr 2022
+Innovative People                             QA Automation Engineer         Aug 2020 – Jul 2021
+Reliability technology                        QA Automation Engineer         May 2019 – Aug 2020
+Institute for System Automation of Processes  QA Engineer                    Jun 2018 – May 2019
+```
+
+---
+
+## 🤝 Let's Connect
+
+Interested in test architecture, reliable automation, or working together?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dmytro-polischuk/"><img src="assets/badges/linkedin-connect.svg" height="36" alt="Let's connect on LinkedIn"></a>
+  <a href="mailto:polischuk.dm23@gmail.com"><img src="assets/badges/email-contact.svg" height="36" alt="Send me an email"></a>
+</p>
+
+<p align="center"><a href="https://github.com/Kunonuk">github.com/Kunonuk</a> · <a href="mailto:polischuk.dm23@gmail.com">polischuk.dm23@gmail.com</a></p>

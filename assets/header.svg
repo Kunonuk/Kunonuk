@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="336" viewBox="0 0 1280 336" role="img" aria-labelledby="title description">
+  <title id="title">Dmytro Polischuk — Senior QA Automation Engineer / SDET</title>
+  <desc id="description">Quality engineering, automation, and AI. Reliable automation. Clear release signals. TypeScript, Playwright, CI/CD, and AI-assisted QA.</desc>
+  <defs>
+    <radialGradient id="glow" cx="83%" cy="45%" r="56%">
+      <stop offset="0" stop-color="#12344b" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#0d1626" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#78b9df" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="1278" height="334" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="336" fill="#0d1626"/>
+    <rect width="1280" height="336" fill="url(#glow)"/>
+    <rect x="832" width="448" height="336" fill="url(#grid)"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="334" rx="20" fill="none" stroke="#26394e"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <path d="M48 43H76" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+    <text x="90" y="48" fill="#67e8f9" font-size="13" font-weight="600" letter-spacing="2">QUALITY ENGINEERING · AUTOMATION · AI</text>
+    <text x="46" y="119" fill="#f1f5f9" font-size="58" font-weight="650" letter-spacing="-1.8">Dmytro Polischuk</text>
+    <text x="48" y="163" fill="#c5d2e3" font-size="26" font-weight="450">Senior QA Automation Engineer / SDET</text>
+    <text x="48" y="214" fill="#e2e8f0" font-size="23">Reliable automation. Clear release signals.</text>
+
+    <g fill="#17283b" stroke="#2c435b">
+      <rect x="48" y="254" width="126" height="36" rx="18"/>
+      <rect x="186" y="254" width="132" height="36" rx="18"/>
+      <rect x="330" y="254" width="92" height="36" rx="18"/>
+      <rect x="434" y="254" width="168" height="36" rx="18"/>
+    </g>
+    <g fill="#d5e3f1" font-size="17" font-weight="500" text-anchor="middle">
+      <text x="111" y="278">TypeScript</text>
+      <text x="252" y="278">Playwright</text>
+      <text x="376" y="278">CI/CD</text>
+      <text x="518" y="278">AI-assisted QA</text>
+    </g>
+
+    <g aria-hidden="true">
+      <path d="M895 88V232M895 88H922M895 160H922M895 232H922" fill="none" stroke="#3d728b" stroke-width="2"/>
+      <g fill="#0d1626" stroke="#67e8f9" stroke-width="2">
+        <circle cx="895" cy="88" r="5"/>
+        <circle cx="895" cy="160" r="5"/>
+        <circle cx="895" cy="232" r="5"/>
+      </g>
+      <g fill="#102337" stroke="#31526b">
+        <rect x="922" y="62" width="294" height="52" rx="10"/>
+        <rect x="922" y="134" width="294" height="52" rx="10"/>
+        <rect x="922" y="206" width="294" height="52" rx="10"/>
+      </g>
+      <g fill="none" stroke="#67e8f9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="942" y="79" width="22" height="17" rx="3"/>
+        <path d="M942 84H964M949 79V84"/>
+        <path d="M942 153L953 148L964 153L953 158ZM942 160L953 165L964 160M942 167L953 172L964 167"/>
+        <path d="M943 224H963M943 232H963M943 240H963"/>
+        <circle cx="948" cy="224" r="2.5" fill="#102337"/>
+        <circle cx="958" cy="232" r="2.5" fill="#102337"/>
+        <circle cx="951" cy="240" r="2.5" fill="#102337"/>
+      </g>
+      <g fill="#c7d9e9" font-size="14" font-weight="550" letter-spacing="0.7">
+        <text x="985" y="93">UI + API AUTOMATION</text>
+        <text x="985" y="165">INDEPENDENT TEST DATA</text>
+        <text x="985" y="237">CI/CD QUALITY GATES</text>
+      </g>
+      <text x="895" y="291" fill="#91adc4" font-size="12" letter-spacing="1.7">DESIGN → VERIFY → RELEASE</text>
+    </g>
+  </g>
+</svg>

@@ -3,7 +3,7 @@
   <desc id="description">Quality engineering, automation, and AI. Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release. Playwright, TypeScript, CI/CD, and AI-assisted QA.</desc>
   <rect width="1280" height="318" rx="12" fill="#111827"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="640" y="41" fill="#67E7F9" font-size="20" font-weight="500" letter-spacing="0.8">QUALITY ENGINEERING · AUTOMATION · AI</text>
+    <text x="640" y="41" fill="#22D3EE" font-size="20" font-weight="500" letter-spacing="0.8">QUALITY ENGINEERING · AUTOMATION · AI</text>
     <text x="640" y="110" fill="#FFFFFF" font-size="62" font-weight="600" letter-spacing="-1">Dmytro Polischuk</text>
     <text x="640" y="164" fill="#CBD5E1" font-size="34" font-weight="450">Senior QA Automation Engineer / SDET</text>
     <text x="640" y="216" fill="#CBD5E1" font-size="24">Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release.</text>

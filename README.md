@@ -3,24 +3,30 @@
   <img src="assets/intro.svg" width="100%" alt="Dmytro Polischuk — Senior QA Automation Engineer / SDET. Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release.">
 </picture>
 
-**Calgary, Canada** · Banking · Financial services · Cybersecurity
+<p align="center"><strong>Calgary, Canada</strong> · Banking · Financial services · Cybersecurity</p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/dmytro-polischuk/"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn"></a>
   <a href="mailto:polischuk.dm23@gmail.com"><img src="assets/badges/email.svg" height="28" alt="Email Dmytro"></a>
 </p>
 
----
-
 ## 🏅 Engineering Achievements
 
-| Impact                          | What I built                                                                   |
-| :------------------------------ | :----------------------------------------------------------------------------- |
-| **6 hours → 1 hour** regression | Parallel execution, independent test data, and redesigned CI/CD pipelines.     |
-| **500+ automated tests**        | A framework covering UI, API, and end-to-end flows for international payments. |
-| **15% more test coverage**      | Cypress integration tests built from scratch and connected to CI/CD.           |
+| Impact                                       | Engineering contribution                                                                                     |
+| :------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **6 hours → 1 hour**<br>Regression execution | Parallel execution, isolated test data, and redesigned GitLab CI/CD pipelines.                               |
+| **64% fewer** critical defects               | Reduced newly reported critical defects on `master` through QA process and automation strategy improvements. |
+| **≈1,000 tests** migrated                    | Cypress → Playwright migration with TypeScript Page Objects, seeded test data, and GitHub Actions.           |
 
----
+**CI quality gates:** Added flaky-test checks for new and modified tests, results in pull requests, and merge blocking on failed checks.
+
+## 🤖 AI-assisted Quality Engineering
+
+I built an AI-assisted PR review workflow using **GitHub Actions**, **Claude Code**, and **Jira MCP** to support earlier defect prevention:
+
+- Review changes against Jira acceptance criteria.
+- Identify potential test coverage gaps.
+- Suggest additional test scenarios for engineering review.
 
 ## 🛠️ Tech Stack
 
@@ -66,29 +72,21 @@
   <img src="assets/badges/kibana.svg" height="28" alt="Kibana">
 </p>
 
----
-
 ## 🧰 Featured Projects
 
-| Project                                                                                     | What you'll find                                                                                                                                                                                                                       |
-| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[SDET Automation Patterns Lab](https://github.com/Kunonuk/sdet-automation-patterns-lab)** | An automation foundation with UI/API smoke tests, validated configuration, and HTML/Allure reports.<br><br>`TypeScript` `Playwright` `Jest` `Allure`                                                                                   |
-| **[Chess Combinations Trainer](https://github.com/Kunonuk/chess-combinations-trainer)**     | A chess tactics app with legal-move validation, saved progress, and desktop/mobile regression checks.<br><br>`React` `TypeScript` `Vitest` `Playwright` · **[Play the demo ↗](https://kunonuk.github.io/chess-combinations-trainer/)** |
-
----
+| Project                                                                                     | What you'll find                                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[SDET Automation Patterns Lab](https://github.com/Kunonuk/sdet-automation-patterns-lab)** | A working automation foundation with UI/API smoke tests, config unit tests, and HTML and Allure reports.<br><br>TypeScript · Playwright · Jest · Allure                                                                                           |
+| **[Chess Combinations Trainer](https://github.com/Kunonuk/chess-combinations-trainer)**     | A chess tactics app with legal-move and study-pack validation, saved progress, and desktop and mobile tests in CI.<br><br>React · TypeScript · Vitest · Playwright · **[Play the demo ↗](https://kunonuk.github.io/chess-combinations-trainer/)** |
 
 ## 💼 Where I've Worked
 
-```text
-CirrusLabs                                   Senior QA Automation Engineer Feb 2024–Present
-Raiffeisen Bank                              Senior QA Automation Engineer Apr 2022–Feb 2024
-Orbit Group                                  QA Automation Engineer        Jul 2021–Apr 2022
-Innovative People                            QA Automation Engineer        Aug 2020–Jul 2021
-Reliability technology                       QA Automation Engineer        May 2019–Aug 2020
-Institute for System Automation of Processes QA Engineer                   Jun 2018–May 2019
-```
-
----
+- <samp><strong>CirrusLabs</strong> · Feb 2024–Oct 2026<br>Senior QA Automation Engineer / SDET</samp>
+- <samp><strong>Raiffeisen Bank</strong> · Apr 2022–Feb 2024<br>Senior QA Automation Engineer</samp>
+- <samp><strong>Orbit Group</strong> · Jul 2021–Apr 2022<br>QA Automation Engineer</samp>
+- <samp><strong>Innovative People</strong> · Aug 2020–Jul 2021<br>QA Automation Engineer</samp>
+- <samp><strong>Reliability Technology</strong> · May 2019–Aug 2020<br>QA Automation Engineer</samp>
+- <samp><strong>Institute for System Automation of Processes</strong> · Jun 2018–May 2019<br>QA Engineer</samp>
 
 ## 🤝 Let's Connect
 

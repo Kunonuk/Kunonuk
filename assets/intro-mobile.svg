@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450" role="img" aria-labelledby="title description">
   <title id="title">Dmytro Polischuk — Senior QA Automation Engineer / SDET</title>
-  <desc id="description">Quality engineering, automation, and AI. Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release. Playwright, TypeScript, CI/CD, and AI-assisted QA.</desc>
+  <desc id="description">I build reliable test automation and AI-driven engineering workflows — from test architecture and CI/CD quality gates to PR analysis and defect prevention. Test Automation Architecture, Playwright / TypeScript, AI-Driven Quality Engineering, and CI/CD Quality Gates.</desc>
   <rect width="640" height="450" rx="12" fill="#111827"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="320" y="43" fill="#22D3EE" font-size="20" font-weight="500" letter-spacing="0.6">QUALITY ENGINEERING · AUTOMATION · AI</text>
+    <text x="320" y="43" fill="#22D3EE" font-size="24" font-weight="500" letter-spacing="0.6">TEST AUTOMATION · AI ENGINEERING</text>
     <text x="320" y="110" fill="#FFFFFF" font-size="52" font-weight="600" letter-spacing="-0.8">Dmytro Polischuk</text>
     <g fill="#CBD5E1" font-size="30" font-weight="450">
       <text x="320" y="159">Senior QA Automation Engineer</text>
       <text x="320" y="196">/ SDET</text>
     </g>
-    <g fill="#CBD5E1" font-size="27">
-      <text x="320" y="247">Building reliable test automation,</text>
-      <text x="320" y="281">scalable frameworks, and quality gates</text>
-      <text x="320" y="315">that prevent defects before release.</text>
+    <g fill="#CBD5E1" font-size="30">
+      <text x="320" y="243">I build reliable test automation</text>
+      <text x="320" y="277">and AI-driven engineering workflows —</text>
+      <text x="320" y="311">from CI quality gates to PR analysis.</text>
     </g>
     <g fill="#29303D">
-      <rect x="145" y="342" width="164" height="38" rx="19"/>
-      <rect x="321" y="342" width="174" height="38" rx="19"/>
-      <rect x="150" y="392" width="112" height="38" rx="19"/>
-      <rect x="274" y="392" width="216" height="38" rx="19"/>
+      <rect x="39" y="353" width="280" height="36" rx="18"/>
+      <rect x="331" y="353" width="270" height="36" rx="18"/>
+      <rect x="39" y="400" width="280" height="36" rx="18"/>
+      <rect x="331" y="400" width="270" height="36" rx="18"/>
     </g>
-    <g fill="#EDEDED" font-size="22" font-weight="500" text-anchor="middle">
-      <text x="227" y="369">Playwright</text>
-      <text x="408" y="369">TypeScript</text>
-      <text x="206" y="419">CI/CD</text>
-      <text x="382" y="419">AI-assisted QA</text>
+    <g fill="#EDEDED" font-size="28" font-weight="500" text-anchor="middle">
+      <text x="179" y="381">Test Architecture</text>
+      <text x="466" y="381">Playwright / TS</text>
+      <text x="179" y="428">AI-Driven Quality</text>
+      <text x="466" y="428">CI/CD Quality Gates</text>
     </g>
   </g>
 </svg>

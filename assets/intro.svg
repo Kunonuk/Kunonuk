@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="318" viewBox="0 0 1280 318" role="img" aria-labelledby="title description">
+  <title id="title">Dmytro Polischuk — Senior QA Automation Engineer / SDET</title>
+  <desc id="description">Quality engineering, automation, and AI. Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release. Playwright, TypeScript, CI/CD, and AI-assisted QA.</desc>
+  <rect width="1280" height="318" rx="12" fill="#111827"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="24" y="41" fill="#67E7F9" font-size="20" font-weight="500" letter-spacing="0.8">QUALITY ENGINEERING · AUTOMATION · AI</text>
+    <text x="22" y="110" fill="#FFFFFF" font-size="62" font-weight="600" letter-spacing="-1">Dmytro Polischuk</text>
+    <text x="24" y="164" fill="#CBD5E1" font-size="34" font-weight="450">Senior QA Automation Engineer / SDET</text>
+    <text x="24" y="216" fill="#CBD5E1" font-size="24">Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release.</text>
+    <g fill="#29303D">
+      <rect x="24" y="253" width="164" height="40" rx="20"/>
+      <rect x="202" y="253" width="174" height="40" rx="20"/>
+      <rect x="390" y="253" width="112" height="40" rx="20"/>
+      <rect x="516" y="253" width="216" height="40" rx="20"/>
+    </g>
+    <g fill="#EDEDED" font-size="22" font-weight="500" text-anchor="middle">
+      <text x="106" y="281">Playwright</text>
+      <text x="289" y="281">TypeScript</text>
+      <text x="446" y="281">CI/CD</text>
+      <text x="624" y="281">AI-assisted QA</text>
+    </g>
+  </g>
+</svg>

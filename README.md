@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Dmytro Polischuk 👋</h1>
-<h3 align="center">Senior QA Automation Engineer / SDET</h3>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/intro-mobile.svg">
+  <img src="assets/intro.svg" width="100%" alt="Dmytro Polischuk — Senior QA Automation Engineer / SDET. Building reliable test automation, scalable frameworks, and quality gates that prevent defects before release.">
+</picture>
 
-<p align="center">I build test frameworks, automate APIs, and make regression feedback faster.</p>
-<p align="center">📍 Calgary, Canada · Banking · Financial services · Cybersecurity</p>
+**Calgary, Canada** · Banking · Financial services · Cybersecurity
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dmytro-polischuk/"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn"></a>
   <a href="mailto:polischuk.dm23@gmail.com"><img src="assets/badges/email.svg" height="28" alt="Email Dmytro"></a>
 </p>

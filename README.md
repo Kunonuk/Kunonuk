@@ -79,12 +79,12 @@
 ## 💼 Where I've Worked
 
 ```text
-CirrusLabs                                    Senior QA Automation Engineer  Feb 2024 – Present
-Raiffeisen Bank                               Senior QA Automation Engineer  Apr 2022 – Feb 2024
-Orbit Group                                   QA Automation Engineer         Jul 2021 – Apr 2022
-Innovative People                             QA Automation Engineer         Aug 2020 – Jul 2021
-Reliability technology                        QA Automation Engineer         May 2019 – Aug 2020
-Institute for System Automation of Processes  QA Engineer                    Jun 2018 – May 2019
+CirrusLabs                                   Senior QA Automation Engineer Feb 2024–Present
+Raiffeisen Bank                              Senior QA Automation Engineer Apr 2022–Feb 2024
+Orbit Group                                  QA Automation Engineer        Jul 2021–Apr 2022
+Innovative People                            QA Automation Engineer        Aug 2020–Jul 2021
+Reliability technology                       QA Automation Engineer        May 2019–Aug 2020
+Institute for System Automation of Processes QA Engineer                   Jun 2018–May 2019
 ```
 
 ---

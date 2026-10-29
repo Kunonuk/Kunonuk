@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="318" viewBox="0 0 1280 318" role="img" aria-labelledby="title description">
+  <title id="title">Dmytro Polischuk — Senior QA Automation Engineer / SDET</title>
+  <desc id="description">I build reliable test automation and AI-driven engineering workflows — from test architecture and CI/CD quality gates to PR analysis and defect prevention. Test Automation Architecture, Playwright / TypeScript, AI-Driven Quality Engineering, and CI/CD Quality Gates.</desc>
+  <rect width="1280" height="318" rx="12" fill="#111827"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="41" fill="#22D3EE" font-size="20" font-weight="500" letter-spacing="0.8">TEST ARCHITECTURE · AI-DRIVEN QUALITY ENGINEERING</text>
+    <text x="640" y="110" fill="#FFFFFF" font-size="62" font-weight="600" letter-spacing="-1">Dmytro Polischuk</text>
+    <text x="640" y="164" fill="#CBD5E1" font-size="34" font-weight="450">Senior QA Automation Engineer / SDET</text>
+    <g fill="#CBD5E1" font-size="23">
+      <text x="640" y="206">I build reliable test automation and AI-driven engineering workflows —</text>
+      <text x="640" y="235">from test architecture and CI/CD quality gates to PR analysis and defect prevention.</text>
+    </g>
+    <g fill="#29303D">
+      <rect x="69" y="265" width="300" height="36" rx="18"/>
+      <rect x="383" y="265" width="250" height="36" rx="18"/>
+      <rect x="647" y="265" width="320" height="36" rx="18"/>
+      <rect x="981" y="265" width="230" height="36" rx="18"/>
+    </g>
+    <g fill="#EDEDED" font-size="20" font-weight="500" text-anchor="middle">
+      <text x="219" y="290">Test Automation Architecture</text>
+      <text x="508" y="290">Playwright / TypeScript</text>
+      <text x="807" y="290">AI-Driven Quality Engineering</text>
+      <text x="1096" y="290">CI/CD Quality Gates</text>
+    </g>
+  </g>
+</svg>
